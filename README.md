@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="ios/NoorGlass/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="120" alt="Noor Glass app icon">
+  <img src="ios/NoorGlass/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="120" alt="Tawakkul app icon">
 </p>
 
-<h1 align="center">Noor Glass</h1>
+<h1 align="center">Tawakkul</h1>
 
 <p align="center">The complete Quran, to listen to and to read | seven reciters with per-ayah audio, the 604-page Mushaf, word-by-word meanings and tafsir, and themes on every surface.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-iOS%2026%2B%20%C2%B7%20Android%208.0%2B-0B3D2E" alt="Platform: iOS 26+ · Android 8.0+">
-  <a href="https://github.com/c12n/noor-glass/releases/latest"><img src="https://img.shields.io/github/v/release/c12n/noor-glass?label=Latest%20release&color=0E5A40" alt="Latest release"></a>
-  <a href="https://github.com/c12n/noor-glass/releases"><img src="https://img.shields.io/github/downloads/c12n/noor-glass/total?label=Downloads&color=0E5A40" alt="Downloads"></a>
-  <img src="https://img.shields.io/github/license/c12n/noor-glass?color=0E5A40" alt="License: MIT">
+  <a href="https://github.com/c12n/tawakkul/releases/latest"><img src="https://img.shields.io/github/v/release/c12n/tawakkul?label=Latest%20release&color=0E5A40" alt="Latest release"></a>
+  <a href="https://github.com/c12n/tawakkul/releases"><img src="https://img.shields.io/github/downloads/c12n/tawakkul/total?label=Downloads&color=0E5A40" alt="Downloads"></a>
+  <img src="https://img.shields.io/github/license/c12n/tawakkul?color=0E5A40" alt="License: MIT">
 </p>
 
 <p align="center">
-  📖 <a href="https://testflight.apple.com/join/GdJpWTyc"><b>Join the TestFlight beta</b></a> · 📥 <a href="https://github.com/c12n/noor-glass/releases/tag/v1.1.0"><b>Download the Android APK</b></a> · 🐛 <a href="https://github.com/c12n/noor-glass/issues"><b>Report an issue</b></a>
+  📖 <a href="https://testflight.apple.com/join/GdJpWTyc"><b>Join the TestFlight beta</b></a> · 📥 <a href="https://github.com/c12n/tawakkul/releases/tag/v1.1.0"><b>Download the Android APK</b></a> · 🐛 <a href="https://github.com/c12n/tawakkul/issues"><b>Report an issue</b></a>
 </p>
 
 `v1.1.0` · First public release | the Android APK is live, and the iOS public beta is in Apple's review queue.
@@ -23,7 +23,7 @@
 
 ## 📱 Screenshots
 
-![Noor Glass | feature overview](screenshots/00-feature-graphic.png)
+![Tawakkul | feature overview](screenshots/00-feature-graphic.png)
 
 | ![Library](screenshots/01-library.png) | ![Library in light](screenshots/02-library-light.png) | ![Plum Velvet](screenshots/03-plum-velvet.png) | ![Plum Velvet in light](screenshots/04-plum-velvet-light.png) |
 | :---: | :---: | :---: | :---: |
@@ -53,7 +53,7 @@ Not included, by design: no CarPlay or Android Auto, and no watch apps.
 **TestFlight**
 
 1. Open **[testflight.apple.com/join/GdJpWTyc](https://testflight.apple.com/join/GdJpWTyc)** on your iPhone or iPad.
-2. Join the public beta and install **Noor Glass** from the TestFlight app.
+2. Join the public beta and install **Tawakkul** from the TestFlight app.
 3. Updates arrive through TestFlight automatically.
 
 The public beta is in Apple's review queue; the link starts working as soon as the build is approved.
@@ -65,7 +65,7 @@ The public beta is in Apple's review queue; the link starts working as soon as t
 
 **Sideload**
 
-1. Download `NoorGlass-1.1.0.apk` from the [v1.1.0 release](https://github.com/c12n/noor-glass/releases/tag/v1.1.0) on your phone.
+1. Download `NoorGlass-1.1.0.apk` from the [v1.1.0 release](https://github.com/c12n/tawakkul/releases/tag/v1.1.0) on your phone.
 2. Open the APK. If Android asks, allow **installing from unknown sources** for your browser or Files app, then tap **Install**.
 3. Open the app once, then long-press your home screen to add the Daily Ayah and Continue Listening widgets.
 
@@ -114,7 +114,7 @@ Every source | text, translations, reciters, page data | is credited in [CREDITS
 
 ## 🔒 Privacy
 
-Noor Glass does not collect analytics or usage data and shows no ads. The Quran text and translations are bundled in the app and stored on the device. Audio streams from the public CDNs credited in CREDITS.md, or plays from your own downloads. Word-by-word and tafsir data are fetched from the Quran.com API on first use and cached on the device. Nothing is linked to an identity, because there are no accounts.
+Tawakkul does not collect analytics or usage data and shows no ads. The Quran text and translations are bundled in the app and stored on the device. Audio streams from the public CDNs credited in CREDITS.md, or plays from your own downloads. Word-by-word and tafsir data are fetched from the Quran.com API on first use and cached on the device. Nothing is linked to an identity, because there are no accounts.
 
 ---
 
@@ -130,8 +130,8 @@ Noor Glass does not collect analytics or usage data and shows no ads. The Quran 
 You need a Mac with Xcode that supports iOS 26.
 
 ```sh
-git clone https://github.com/c12n/noor-glass.git
-cd noor-glass
+git clone https://github.com/c12n/tawakkul.git
+cd tawakkul
 
 xcodebuild \
   -project ios/NoorGlass.xcodeproj \
@@ -150,8 +150,8 @@ That gives you an unsigned archive. To run it on your own device, open the proje
 You need Flutter (stable channel) and Java 17.
 
 ```sh
-git clone https://github.com/c12n/noor-glass.git
-cd noor-glass/android
+git clone https://github.com/c12n/tawakkul.git
+cd tawakkul/android
 
 flutter pub get
 flutter test
@@ -166,7 +166,7 @@ One workflow lives in `.github/workflows/`:
 
 | Workflow | Runs when | What you get |
 | --- | --- | --- |
-| **Build Noor Glass Android APK** | Pushes that touch `android/**`, or by hand | A release APK as the `noor-glass-apk` run artifact |
+| **Build Tawakkul Android APK** | Pushes that touch `android/**`, or by hand | A release APK as the `noor-glass-apk` run artifact |
 
 To use it on your own fork: open the **Actions** tab, pick the workflow, and press **Run workflow**, then download the artifact from the finished run.
 
@@ -184,7 +184,7 @@ To use it on your own fork: open the **Actions** tab, pick the workflow, and pre
 
 ## Disclaimer
 
-Noor Glass is an independent open-source project. Provided "as is", without warranty of any kind. The Quran text, translations, recitations and reference data belong to their respective sources and are credited in [CREDITS.md](CREDITS.md).
+Tawakkul is an independent open-source project. Provided "as is", without warranty of any kind. The Quran text, translations, recitations and reference data belong to their respective sources and are credited in [CREDITS.md](CREDITS.md).
 
 - This app is **free**. If a third party charged you for it, you may have been misled.
 - No user data is collected, stored, or distributed by this repository.

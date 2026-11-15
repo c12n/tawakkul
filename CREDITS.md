@@ -1,10 +1,10 @@
-# Credits and Attribution | Noor Glass
+# Credits and Attribution | Tawakkul
 
-This file records where everything used in Noor Glass came from. It is carried over from the Prayer YEG credits, limited to the Quran layer that Noor Glass is extracted from.
+This file records where everything used in Tawakkul came from. It is carried over from the Prayer YEG credits, limited to the Quran layer that Tawakkul is extracted from.
 
 ## This app
 
-- Noor Glass, designed and developed by c12n Apps. Copyright (c) 2026 c12n Apps.
+- Tawakkul, designed and developed by c12n Apps. Copyright (c) 2026 c12n Apps.
 - The app began as the Quran player of Prayer YEG (c12n/PrayerAppYEG) and was split into a standalone app on 2026-11-12 at the developer's direction.
 
 ## Quran text and translation
