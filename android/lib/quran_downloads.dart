@@ -1,4 +1,4 @@
-// Quran downloads (Noor Glass 1.0.0) — the Android counterpart of the iOS
+// Quran downloads (Tawakkul 1.0.0) — the Android counterpart of the iOS
 // QuranDownloads: offline downloads of whole surahs. Files live at
 // <app support>/QuranAudio/{reciterId}/{n}.mp3; the player prefers
 // a downloaded file over the stream.

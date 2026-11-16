@@ -1,4 +1,4 @@
-// Custom playlists (Noor Glass 1.1.0, phase 2 feature 8).
+// Custom playlists (Tawakkul 1.1.0, phase 2 feature 8).
 //
 // User-made surah lists on top of the built-in collections,
 // persisted as JSON under `quran.playlists.v1`.

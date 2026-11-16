@@ -1,4 +1,4 @@
-// Quran layer (Noor Glass 1.0.0) — the Android counterpart of the iOS Quran
+// Quran layer (Tawakkul 1.0.0) — the Android counterpart of the iOS Quran
 // models: the bundled surah catalogue (surahs.json), the ayah text
 // store (quran_text.json — Arabic Uthmani + Saheeh International),
 // ayah bookmarks, and the character-weighted ayah timing estimates

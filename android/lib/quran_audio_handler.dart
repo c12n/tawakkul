@@ -1,4 +1,4 @@
-// Background audio (Noor Glass 1.0.0) — the Android counterpart of the iOS
+// Background audio (Tawakkul 1.0.0) — the Android counterpart of the iOS
 // player's Now Playing / remote-command integration
 // (MPNowPlayingInfoCenter + MPRemoteCommandCenter). An
 // audio_service handler running the media-playback foreground

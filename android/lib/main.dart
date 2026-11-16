@@ -1,4 +1,4 @@
-// Noor Glass | Android edition (Flutter, Material 3 Expressive styling).
+// Tawakkul | Android edition (Flutter, Material 3 Expressive styling).
 //
 // A standalone Quran app extracted from Prayer YEG's Quran layer:
 // the surah library, reciter and English narration playback with
@@ -199,7 +199,7 @@ class NoorGlassApp extends StatelessWidget {
             themeSettings.dynamicAvailable =
                 lightDynamic != null || darkDynamic != null;
             return MaterialApp(
-              title: 'Noor Glass',
+              title: 'Tawakkul',
               debugShowCheckedModeBanner: false,
               theme: NoorTheme.build(lightDynamic, Brightness.light, themeSettings),
               darkTheme:
