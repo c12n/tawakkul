@@ -1,6 +1,6 @@
 //
 //  QuranLibraryView.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player (v2.2.0-alpha): the library — "Quran" title with
 //  the reciter and listening stats, search, Favorites / Downloaded

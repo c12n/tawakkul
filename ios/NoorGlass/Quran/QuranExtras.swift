@@ -1,6 +1,6 @@
 //
 //  QuranExtras.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Phase-2 data and services:
 //  - French translation (Muhammad Hamidullah), bundled in

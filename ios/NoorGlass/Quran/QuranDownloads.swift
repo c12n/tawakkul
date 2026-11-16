@@ -1,6 +1,6 @@
 //
 //  QuranDownloads.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player (v2.1.0-private): offline downloads of whole surahs.
 //  Files live at Application Support/QuranAudio/{reciterId}/{n}.mp3;

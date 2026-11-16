@@ -1,6 +1,6 @@
 //
 //  NowPlayingView.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player: Now Playing in the Spotify layout (full-bleed
 //  gradient from the surah's color, big white play button, Up Next
