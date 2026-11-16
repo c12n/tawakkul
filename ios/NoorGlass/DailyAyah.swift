@@ -1,6 +1,6 @@
 //
 //  DailyAyah.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  The Daily Ayah: a curated list of well-known verses, cycled by
 //  the day's ordinal so the same verse shows all day and changes at

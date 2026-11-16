@@ -1,4 +1,4 @@
-// Word by word (Noor Glass 1.1.0, phase 2 feature 4).
+// Word by word (Tawakkul 1.1.0, phase 2 feature 4).
 //
 // Data: the Quran.com API v4 word segmentation (Uthmani word
 // text, English transliteration and English word translation),

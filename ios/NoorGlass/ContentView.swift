@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Root shell: an iOS 26 Liquid Glass tab bar (the system glass tab
 //  bar, minimizing on scroll) with Library, Mushaf, Search,
@@ -209,7 +209,7 @@ private struct AboutView: View {
             Form {
                 Section {
                     VStack(alignment: .leading, spacing: 4) {
-                        Text("Noor Glass")
+                        Text("Tawakkul")
                             .font(.title2.weight(.bold))
                         Text("The Holy Quran | Listen, read along, memorize")
                             .font(.subheadline)

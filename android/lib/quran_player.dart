@@ -1,4 +1,4 @@
-// Quran player (Noor Glass 1.0.0) — the Android counterpart of the iOS
+// Quran player (Tawakkul 1.0.0) — the Android counterpart of the iOS
 // QuranPlayer: a just_audio engine streaming one MP3 per surah
 // from the catalogue CDN (or playing the downloaded file), with
 // the same queue / shuffle / repeat / sleep-timer / ayah loop

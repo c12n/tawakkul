@@ -1,4 +1,4 @@
-// Tafsir on tap (Noor Glass 1.1.0, phase 2 feature 5).
+// Tafsir on tap (Tawakkul 1.1.0, phase 2 feature 5).
 //
 // English Tafsir Ibn Kathir (Abridged), fetched per ayah on
 // demand from the Quran.com API v4 (tafsir resource 169; the

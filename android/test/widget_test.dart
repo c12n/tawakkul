@@ -1,4 +1,4 @@
-// Noor Glass smoke tests: the bundled Quran catalogue loads and
+// Tawakkul smoke tests: the bundled Quran catalogue loads and
 // the ayah timing estimates behave.
 
 import 'package:flutter_test/flutter_test.dart';
