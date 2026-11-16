@@ -1,6 +1,6 @@
 //
 //  NoorWidgets.swift
-//  Noor Glass Widgets
+//  Tawakkul Widgets
 //
 //  Phase-2 widgets (feature 6):
 //  - DailyAyahWidget: the day's ayah on the Home Screen (small and
@@ -237,7 +237,7 @@ struct ContinueListeningWidgetView: View {
                         .font(.caption2)
                         .lineLimit(1)
                 } else {
-                    Text("Open Noor Glass and press play")
+                    Text("Open Tawakkul and press play")
                         .font(.caption2)
                         .lineLimit(2)
                 }
