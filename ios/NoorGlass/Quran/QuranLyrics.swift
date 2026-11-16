@@ -1,6 +1,6 @@
 //
 //  QuranLyrics.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player (v2.2.0-alpha): the lyrics view — every ayah of the
 //  playing surah, Arabic (Uthmani) with the Saheeh International

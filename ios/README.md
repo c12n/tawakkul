@@ -1,4 +1,4 @@
-# Noor Glass | iOS
+# Tawakkul | iOS
 
 Native SwiftUI Quran player for iOS 26, built with the Liquid Glass design: glass tab bar, glass mini player, glass Now Playing surfaces.
 

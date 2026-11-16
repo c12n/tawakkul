@@ -1,6 +1,6 @@
 //
 //  QuranModels.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player (v2.1.0-private): the bundled surah catalogue
 //  (surahs.json) — every surah's names, ayah count, revelation place

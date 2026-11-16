@@ -1,6 +1,6 @@
 //
 //  QuranPlayer.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player (v2.1.0-private): the AVPlayer engine. Streams one
 //  MP3 per surah from the catalogue CDN (or plays the downloaded

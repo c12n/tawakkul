@@ -1,6 +1,6 @@
 //
 //  QuranSearchView.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Full-text search (phase 2, feature 2) over the bundled texts:
 //  the Arabic, the Saheeh International English and the Hamidullah
