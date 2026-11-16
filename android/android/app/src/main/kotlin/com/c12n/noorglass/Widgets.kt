@@ -81,7 +81,7 @@ class ContinueListeningWidget : AppWidgetProvider() {
             if (name.isNullOrEmpty()) {
                 views.setTextViewText(R.id.widget_name, "Nothing played yet")
                 views.setTextViewText(
-                    R.id.widget_reciter, "Open Noor Glass to start listening")
+                    R.id.widget_reciter, "Open Tawakkul to start listening")
                 views.setTextViewText(R.id.widget_time, "")
                 views.setProgressBar(R.id.widget_progress, 1000, 0, false)
             } else {

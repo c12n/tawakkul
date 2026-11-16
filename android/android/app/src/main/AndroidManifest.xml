@@ -7,7 +7,7 @@
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <application
-        android:label="Noor Glass"
+        android:label="Tawakkul"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -37,7 +37,7 @@
             android:enabled="true"
             android:exported="true"
             android:icon="@mipmap/ic_launcher"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -49,7 +49,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_ocean"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -61,7 +61,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_desert"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -73,7 +73,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_emerald"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -85,7 +85,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_crimson"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -97,7 +97,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_sapphire"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -109,7 +109,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_plum"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -121,7 +121,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@drawable/ic_noor_contrast"
-            android:label="Noor Glass"
+            android:label="Tawakkul"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>

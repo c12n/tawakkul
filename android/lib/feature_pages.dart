@@ -1,4 +1,4 @@
-// Feature pages (Noor Glass 1.1.0, phase 2): Mushaf read mode
+// Feature pages (Tawakkul 1.1.0, phase 2): Mushaf read mode
 // (feature 1), full-text search (2), tafsir sheet (5), custom
 // playlists (8), the Khatmah planner (7) and the full theme
 // settings (theming layer). All surfaces here follow the picked

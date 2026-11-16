@@ -1,6 +1,6 @@
-# Noor Glass | Android
+# Tawakkul | Android
 
-The Android edition of Noor Glass, a standalone Quran listening and reading app. Extracted from Prayer YEG's Quran layer and rebuilt as its own app.
+The Android edition of Tawakkul, a standalone Quran listening and reading app. Extracted from Prayer YEG's Quran layer and rebuilt as its own app.
 
 Copyright (c) 2026 c12n Apps
 
@@ -25,7 +25,7 @@ Material 3 Expressive styling on Flutter's Material 3 base: dynamic color from t
 
 | Field | Value |
 | --- | --- |
-| Display name | Noor Glass |
+| Display name | Tawakkul |
 | Package / applicationId | com.c12n.noorglass |
 | Version | 1.0.0 (versionCode 1) |
 | minSdk | 26 |

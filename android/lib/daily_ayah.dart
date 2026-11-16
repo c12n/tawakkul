@@ -1,4 +1,4 @@
-// Daily Ayah (Noor Glass 1.1.0, phase 2 feature 6).
+// Daily Ayah (Tawakkul 1.1.0, phase 2 feature 6).
 //
 // One ayah per day, picked deterministically: the day number
 // (days since epoch, local) modulo 6,236 walks the whole Quran

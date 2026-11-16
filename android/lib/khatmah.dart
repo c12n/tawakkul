@@ -1,4 +1,4 @@
-// Khatmah planner (Noor Glass 1.1.0, phase 2 feature 7).
+// Khatmah planner (Tawakkul 1.1.0, phase 2 feature 7).
 //
 // A finish-the-Quran listening plan built on the player's
 // existing listening statistics. A cycle snapshots the per-surah

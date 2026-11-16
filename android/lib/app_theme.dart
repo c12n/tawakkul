@@ -1,4 +1,4 @@
-// App theming (Noor Glass 1.1.0) | FULL theming, unlike Prayer YEG
+// App theming (Tawakkul 1.1.0) | FULL theming, unlike Prayer YEG
 // where the Quran palette was fixed by design. Here the picked
 // theme drives every surface: library, Now Playing sleeve, lyrics
 // (including the playing-ayah card), mini player, Mushaf reader

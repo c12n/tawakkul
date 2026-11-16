@@ -15,7 +15,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.c12n.noorglass"
+        applicationId = "com.c12n.Tawakkul"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = 26
@@ -31,7 +31,7 @@ android {
     buildTypes {
         release {
             // Release builds are signed with the debug key until a
-            // c12n release keystore is configured for Noor Glass.
+            // c12n release keystore is configured for Tawakkul.
             signingConfig = signingConfigs.getByName("debug")
         }
     }
