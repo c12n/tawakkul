@@ -1,6 +1,6 @@
 //
 //  MiniPlayerView.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Quran player (v2.1.0-private): the persistent mini player — a
 //  deep-green bar with the surah's Arabic tile, names, a hairline
@@ -96,7 +96,7 @@ struct MiniPlayerView: View {
                 .padding(.horizontal, 12)
                 .padding(.bottom, 7)
             }
-            // Noor Glass: Liquid Glass pill (iOS 26) tinted with the
+            // Tawakkul: Liquid Glass pill (iOS 26) tinted with the
             // Quran deep green, replacing the flat fill + shadow.
             .glassEffect(.regular.tint(QuranTheme.deepGreen.opacity(0.88))
                             .interactive(),

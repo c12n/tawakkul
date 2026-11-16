@@ -1,6 +1,6 @@
 //
 //  FeatureViews.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Phase-2 feature surfaces: the Daily Ayah card, custom playlists
 //  (feature 8), the Khatmah planner (feature 7), word-by-word

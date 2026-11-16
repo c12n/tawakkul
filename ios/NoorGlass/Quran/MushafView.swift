@@ -1,6 +1,6 @@
 //
 //  MushafView.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Mushaf read mode (phase 2, feature 1): the Quran as printed in
 //  the Madani mushaf, page by page (604 pages). Page contents come

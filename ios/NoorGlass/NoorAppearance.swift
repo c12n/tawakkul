@@ -1,8 +1,8 @@
 //
 //  NoorAppearance.swift
-//  Noor Glass
+//  Tawakkul
 //
-//  Full theming for Noor Glass, modelled on Prayer YEG's proven
+//  Full theming for Tawakkul, modelled on Prayer YEG's proven
 //  AppAppearance system (Shared/PrayerModels.swift) and adapted
 //  standalone. Unlike Prayer YEG, where the Quran palette was fixed
 //  deep green and gold by design, here the theme applies to EVERY
@@ -258,7 +258,7 @@ enum NoorAppearance {
         var mode: Mode { Mode(rawValue: modeRaw) ?? .system }
     }
 
-    /// The eight Noor Glass presets. Mosque Green is the shipped
+    /// The eight Tawakkul presets. Mosque Green is the shipped
     /// default (the Prayer YEG Quran palette, now just one choice).
     static let presetThemes: [ThemeChoice] = [
         ThemeChoice(id: "preset-mosque", name: "Mosque Green",

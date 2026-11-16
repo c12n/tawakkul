@@ -1,8 +1,8 @@
 //
 //  NoorTheme.swift
-//  Noor Glass
+//  Tawakkul
 //
-//  Standalone theme for Noor Glass, adapted from the color members
+//  Standalone theme for Tawakkul, adapted from the color members
 //  the Quran player used from Prayer YEG's Theme (Shared/PrayerModels).
 //  Only the colors the Quran files reference are carried over; the
 //  user-pickable theme system and its AppAppearance store are NOT

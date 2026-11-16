@@ -1,6 +1,6 @@
 //
 //  NoorGlassApp.swift
-//  Noor Glass
+//  Tawakkul
 //
 //  Standalone Quran player, extracted from Prayer YEG's Quran layer.
 //  One player engine, one download store and one bookmarks store for
