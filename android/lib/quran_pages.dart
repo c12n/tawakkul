@@ -1,4 +1,4 @@
-// Noor Glass UI | the surah library (search, Favorites and
+// Tawakkul UI | the surah library (search, Favorites and
 // Downloaded filters, collections, options), the Now Playing
 // page, the lyrics page (tap to seek, bookmarks, memorization
 // loop), the downloads manager, the bookmarks page, and the
@@ -346,7 +346,7 @@ class _QuranLibraryPageState extends State<QuranLibraryPage> {
         return Scaffold(
           appBar: widget.embedded
               ? null
-              : AppBar(title: const Text('Noor Glass')),
+              : AppBar(title: const Text('Tawakkul')),
           body: CustomScrollView(
             slivers: [
               SliverToBoxAdapter(
@@ -357,7 +357,7 @@ class _QuranLibraryPageState extends State<QuranLibraryPage> {
                     children: [
                       if (widget.embedded) ...[
                         Text(
-                          'Noor Glass',
+                          'Tawakkul',
                           style: Theme.of(context).textTheme.headlineMedium,
                         ),
                         const SizedBox(height: 4),
